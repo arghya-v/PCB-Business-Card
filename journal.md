@@ -47,6 +47,11 @@ Here is what it looks like:
 <br></br>
 <img width="846" height="508" alt="image" src="https://github.com/user-attachments/assets/840c5d54-4ef7-4ed7-8706-b810ac439cb6" />
 <br></br>
+After that, just as I was about to export everything, I realized my image conflicted with the copper being sent towards the resistor, so I has to adjust my design like so:
+<br></br>
+<img width="980" height="586" alt="image" src="https://github.com/user-attachments/assets/d73aa223-599d-4d41-a1c8-092afb128514" />
+
+<br></br>
 **Total time spent: 1 hr**
 Overall that was how I designed my PCB
 
