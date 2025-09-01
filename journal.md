@@ -35,9 +35,11 @@ I also created a solid layer on the back so that the led on the front can sort o
 
 Later on, I decided to switch my LED colour to yellow because I was going to make my PCB black, so yellow would look nicer. 
 I updated my schematic like so:
+<br></br>
 <img width="486" height="602" alt="image" src="https://github.com/user-attachments/assets/e36164c7-faa0-4d39-90c5-6eaa286ddf74" />
 After that, I added the topographic look to the front of the PCB as well since the front was looking a bit empty. I wanted to keep it subtle so I added it in the top layer instead of the bottom. 
 Here is what it looks like:
+<br></br>
 <img width="846" height="508" alt="image" src="https://github.com/user-attachments/assets/840c5d54-4ef7-4ed7-8706-b810ac439cb6" />
 **Total time spent: 1 hr**
 Overall that was how I designed my PCB
